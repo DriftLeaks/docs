@@ -1,12 +1,10 @@
 ---
 title: Customizing your repository
-intro: 'You can choose the way your repository appears by customizing your repository.'
+intro: You can choose the way your repository appears by customizing your repository.
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
-topics:
-  - Repositories
+  ghec: '*'
 children:
   - /about-readmes
   - /licensing-a-repository
@@ -18,4 +16,3 @@ children:
   - /about-citation-files
 shortTitle: Customize your repository
 ---
-

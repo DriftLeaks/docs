@@ -7,9 +7,7 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
-topics:
-  - Repositories
+  ghec: '*'
 children:
   - /viewing-branches-in-your-repository
   - /renaming-a-branch
